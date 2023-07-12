@@ -1,0 +1,5 @@
+fire
+rich
+progressbar2
+timm
+opencv-python
